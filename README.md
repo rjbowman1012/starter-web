@@ -13,3 +13,6 @@ kjblkjb
 
 ## Dog
 Golden
+
+## Copyright
+2022 Ryan
