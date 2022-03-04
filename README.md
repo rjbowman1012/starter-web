@@ -16,3 +16,6 @@ Golden
 
 ## Copyright
 2022 Ryan
+
+## How to Contribute
+Please fork this repository and then issue Pull requests for review
