@@ -15,4 +15,4 @@ kjblkjb
 Golden
 
 ## Copyright
-2022 Ryan
+2022 Ryan R
