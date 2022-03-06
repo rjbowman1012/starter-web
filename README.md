@@ -15,6 +15,7 @@ kjblkjb
 Golden
 Black Lab
 Yorkie
+Dalmation
 
 ## Copyright
 <<<<<<< HEAD
